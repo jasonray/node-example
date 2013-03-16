@@ -8,7 +8,13 @@ Snippet:
 Install
 -------
 Install node:
-`brew install node`
+```
+brew install node
+```
+
 
 If needed, install formidable:
-`npm install formidable`
+```
+npm install formidable
+```
+
