@@ -1,0 +1,12 @@
+{
+  "name": "node-example",
+  "author": {
+    "name": "jasonray",
+    "email": "jason@jayray.net",
+    "web": "http://github.com/jasonray"
+  },
+  "description": "code along with example",
+  "dependencies": {
+    "formidable": "*"
+  }
+}

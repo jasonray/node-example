@@ -13,8 +13,8 @@ brew install node
 ```
 
 
-If needed, install formidable:
+Install node dependencies (including formidable)
 ```
-npm install formidable
+npm install 
 ```
 
